@@ -1,0 +1,4 @@
+14:09:02 | google.com | OK | 54.1646ms
+14:09:02 | example.com | OK | 60.3133ms
+14:09:02 | github.com | OK | 77.5895ms
+14:09:02 | telegram.com | OK | 149.131ms
